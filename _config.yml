@@ -1,0 +1,21 @@
+# Site settings
+title: Who Will Jenn Wil
+header-img: img/home-bg.png
+email: jennwilson55@gmail.com
+copyright_name: Jennwil
+description: > # this means to ignore newlines until "baseurl:"
+  The happenings of an aspiring coder
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: Jenn_Wils
+github_username:  Jennwil
+learn_profile: Jennwil
+email_username: jennwilson55@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
