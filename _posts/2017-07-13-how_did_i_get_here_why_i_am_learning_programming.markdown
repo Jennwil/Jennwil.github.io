@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "How Did I Get Here (Why I am learning programming)"
-date:   2017-07-13 22:32:03 +0000
+title:  "How Did I Get Here? (Why I am learning programming)"
+date:   2017-07-13 18:32:04 -0400
 ---
 
 
